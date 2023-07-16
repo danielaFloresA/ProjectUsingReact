@@ -4,6 +4,7 @@ import PedroTechSpecial from '../assets/pedrotechspecial.jpg';
 import Vegan from '../assets/vegan.jpg';
 import Pineapple from '../assets/pineapple.jpg';
 import VeryExpensive from '../assets/expensive.jpg';
+import Hawaiian from '../assets/hawaiian.jpg';
 
 export const MenuList = [
     {
@@ -35,6 +36,11 @@ export const MenuList = [
         name:"Very Expensive Pizza",
         image: VeryExpensive,
         price: 150.45
+    },
+    {
+        name:"Hawaiian Pizza",
+        image: Hawaiian,
+        price: 19.99
     },
      
 ]
